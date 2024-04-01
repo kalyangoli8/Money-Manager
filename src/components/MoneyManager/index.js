@@ -145,7 +145,7 @@ class MoneyManager extends Component {
                 type="text"
                 id="title"
                 value={titleInput}
-                onChange={this.onChangeAmountInput}
+                onChange={this.onChangeTitleInput}    
                 className="input"
                 placeholder="TITLE"
               />
